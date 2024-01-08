@@ -1,0 +1,20 @@
+[theme]
+
+# Learn more at: https://blog.streamlit.io/introducing-theming/
+
+# Primary accent for interactive elements
+primaryColor = '#3cb878'
+
+# Background color for the main content area
+backgroundColor="#f0f0f5"
+
+# Background color for sidebar and most interactive widgets
+secondaryBackgroundColor="#e0e0ef"
+
+# Color used for almost all text
+textColor = '#242424'
+
+# Font family for all text in the app, except code blocks
+# Accepted values (serif | sans serif | monospace) 
+# Default: "sans serif"
+font = "sans serif"
